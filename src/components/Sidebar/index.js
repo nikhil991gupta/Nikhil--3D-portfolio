@@ -29,7 +29,7 @@ const Sidebar = () => {
         to="/"
         onClick={() => setShowNav(false)}>
         <img src={LogoS} alt="Logo" />
-        <img className="sub-logo" src={LogoSubtitle} alt="slobodan" />
+        <img className="sub-logo" src={LogoSubtitle} alt="Nikhil" />
       </Link>
       <nav className={showNav ? 'mobile-show' : ''}>
         <NavLink 
@@ -72,7 +72,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/slobodan-gaji%C4%87-006bb8b8/"
+            href="https://www.linkedin.com/in/nikhilgupta13/"
             target="_blank"
             rel="noreferrer"
           >
@@ -85,7 +85,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/bobangajicsm"
+            href="https://github.com/nikhil991gupta"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw"
+            href="https://www.youtube.com/channel/UC51R7_HYjhG7LxaHevTofWQ"
             rel="noreferrer"
             target="_blank"
           >
